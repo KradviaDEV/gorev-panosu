@@ -2,7 +2,7 @@
   "name": "gorev-panosu",
   "private": true,
   "version": "0.0.0",
-  "description": "Kradvia tarafindan gelistirilen modern Kanban gorev panosu.",
+  "description": "Kradvia tarafindan gelistirilen modern Gorev Panosu uygulamasi.",
   "author": "Kradvia",
   "type": "module",
   "scripts": {

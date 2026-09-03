@@ -2,7 +2,7 @@
 
 # GÖREV PANOSU
 
-### Modern, hizli ve odaklanmis bir Kanban deneyimi.
+### Modern, hizli ve odaklanmis bir Gorev Panosu deneyimi.
 
 <p>
 	<strong>Kradvia</strong> tarafindan gelistirildi. Gorevlerini planla, ilerlet ve tamamla.
